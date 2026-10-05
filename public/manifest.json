@@ -1,6 +1,6 @@
 {
   "name": "WAnime List",
-  "short_name": "WAnime",
+  "short_name": "WAnime List",
   "description": "Seu rastreador pessoal de animes, temporadas e episódios com sincronização em nuvem e suporte offline.",
   "start_url": "/",
   "display": "standalone",
